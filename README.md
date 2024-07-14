@@ -1,2 +1,0 @@
-# WinRAR
-WinRAR Repack Project

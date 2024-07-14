@@ -5,7 +5,7 @@
 - If you interested for my repack software then install this WinRAR compressing software.
 - This WInRAR compressing software related any kind all help or informations sharing with Twitter, Please follow the Twitter Page.
 - Raptor Repack official Twitter page link in the down side.
-- Raptor Repack official YouTube channel link in the down side.
+- Raptor Repack official YouTube channel link in the down side. 
 
 # Product Informations:
 - Product Name: WinRAR

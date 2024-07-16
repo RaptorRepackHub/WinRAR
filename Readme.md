@@ -17,19 +17,12 @@
 
 # Release Notes:
 - Updating an encrypted file in a solid RAR archive produced a corrupt archive if updated file was the first in archive, no password was specified when starting updating and file name encryption in the updated archive wasn't enabled.
-
 - WinRAR 7.0.0.0 crashed after switching to "Flat folders view" mode from archive subfolder.
-
 - Switch -ep4 duplicated the specified path instead of excluding it when extracting.
-
 - if archive created by Unix RAR version contained symlinks with path separator characters in target paths, these characters could be broken when modifying such archive with Windows RAR.
-
 - Invalid file name was displayed in file rename and file execute WinRAR error messages.
-
 - SFX "Shortcut" command failed to recognize empty parameters defined like "Shortcut=D,"",folder", while correctly recognizing such parameters without quote marks like "Shortcut=D,,folder"
-
 - Volume reconstruction didn't work in WinRAR.exe if "rc" command was specified with .rev file, such as "WinRAR rc arc.part1.rev" Unlike RAR, WinRAR required to use only .rar file name here.
-
 - HyperEngine all patch updated.
 
 # Download Now:

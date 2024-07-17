@@ -9,15 +9,15 @@
 
 # Product Informations:
 - Product Name: WinRAR
-- Product Version: v7.1.0.0
+- Product Version: v7.01.0
 - Product OS Support: Windows 11
-- Product Install Space: 23.05 MB
+- Product Install Space: 20.05 MB
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2024 Co.Inc
 
 # Release Notes:
 - Updating an encrypted file in a solid RAR archive produced a corrupt archive if updated file was the first in archive, no password was specified when starting updating and file name encryption in the updated archive wasn't enabled.
-- WinRAR 7.0.0.0 crashed after switching to "Flat folders view" mode from archive subfolder.
+- WinRAR 7.0.0 crashed after switching to "Flat folders view" mode from archive subfolder.
 - Switch -ep4 duplicated the specified path instead of excluding it when extracting.
 - if archive created by Unix RAR version contained symlinks with path separator characters in target paths, these characters could be broken when modifying such archive with Windows RAR.
 - Invalid file name was displayed in file rename and file execute WinRAR error messages.
